@@ -6,7 +6,7 @@ class Program
     {
         Console.WriteLine("Let's create own team!");
         Console.Write("Enter team name: ");
-        string teamName = Console.ReadLine();
+        string teamName = Console.ReadLine()!;
         Team myTeam = new Team(teamName);
 
         Console.WriteLine("Let's do something in our team!\n");
@@ -21,18 +21,18 @@ class Program
             Console.WriteLine("5. DO WORK EVERYONE!");
             Console.WriteLine("6. Exit");
 
-            string choice = Console.ReadLine();
+            string choice = Console.ReadLine()!;
             Console.WriteLine("\n\n");
             switch (choice)
             {
                 case "1":
                     Console.Write("Enter developer name: ");
-                    string devName = Console.ReadLine();
+                    string devName = Console.ReadLine()!;
                     myTeam.AddWorker(new Developer(devName));
                     break;
                 case "2":
                     Console.Write("Enter manager name: ");
-                    string manName = Console.ReadLine();
+                    string manName = Console.ReadLine()!;
                     myTeam.AddWorker(new Manager(manName));
                     break;
                 
