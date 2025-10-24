@@ -1,0 +1,15 @@
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\bin\Debug\net8.0\GeoInterface.exe
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\bin\Debug\net8.0\GeoInterface.deps.json
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\bin\Debug\net8.0\GeoInterface.runtimeconfig.json
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\bin\Debug\net8.0\GeoInterface.dll
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\bin\Debug\net8.0\GeoInterface.pdb
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\GeoInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\GeoInterface.AssemblyInfoInputs.cache
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\GeoInterface.AssemblyInfo.cs
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\GeoInterface.csproj.CoreCompileInputs.cache
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\GeoInterface.sourcelink.json
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\GeoInterface.dll
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\refint\GeoInterface.dll
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\GeoInterface.pdb
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\GeoInterface.genruntimeconfig.cache
+C:\projects\OOP_homework\homework_4\task_4\GeoInterface\obj\Debug\net8.0\ref\GeoInterface.dll
