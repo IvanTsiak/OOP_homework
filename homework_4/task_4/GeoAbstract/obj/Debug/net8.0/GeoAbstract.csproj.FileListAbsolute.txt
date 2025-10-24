@@ -1,0 +1,15 @@
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\bin\Debug\net8.0\GeoAbstract.exe
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\bin\Debug\net8.0\GeoAbstract.deps.json
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\bin\Debug\net8.0\GeoAbstract.runtimeconfig.json
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\bin\Debug\net8.0\GeoAbstract.dll
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\bin\Debug\net8.0\GeoAbstract.pdb
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\GeoAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\GeoAbstract.AssemblyInfoInputs.cache
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\GeoAbstract.AssemblyInfo.cs
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\GeoAbstract.csproj.CoreCompileInputs.cache
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\GeoAbstract.sourcelink.json
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\GeoAbstract.dll
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\refint\GeoAbstract.dll
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\GeoAbstract.pdb
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\GeoAbstract.genruntimeconfig.cache
+C:\projects\OOP_homework\homework_4\task_4\GeoAbstract\obj\Debug\net8.0\ref\GeoAbstract.dll
