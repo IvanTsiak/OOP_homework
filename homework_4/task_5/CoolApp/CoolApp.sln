@@ -1,0 +1,25 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoolApp", "CoolApp.csproj", "{8F192997-0445-77F3-3849-E04D2D4AD523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F192997-0445-77F3-3849-E04D2D4AD523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F192997-0445-77F3-3849-E04D2D4AD523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F192997-0445-77F3-3849-E04D2D4AD523}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8F192997-0445-77F3-3849-E04D2D4AD523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F192997-0445-77F3-3849-E04D2D4AD523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D97F40-F215-41A3-B712-755A7CF0F936}
+	EndGlobalSection
+EndGlobal

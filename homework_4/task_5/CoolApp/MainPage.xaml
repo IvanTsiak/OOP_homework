@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CoolApp.MainPage"
+             Title="Something cool">
+
+    <ScrollView>
+        <VerticalStackLayout Spacing="10" Padding="20">
+
+        <Label Text="List of products in stock"
+               FontSize="22"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" />
+
+        <Frame CornerRadius="10" Padding="0" BorderColor="#e0e0e0" HasShadow="False">
+            <CollectionView x:Name="productsCollectionView"
+                            HeightRequest="400"
+                            SelectionMode="Single">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="15">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="Auto" />
+                            </Grid.ColumnDefinitions>
+
+                            <VerticalStackLayout Grid.Column="0">
+                                <Label Text="{Binding Name}" 
+                                       FontSize="18" 
+                                       FontAttributes="Bold" />
+                                <Label FontSize="14">
+                                    <Label.FormattedText>
+                                        <FormattedString>
+                                            <Span Text="Country: " FontAttributes="Bold" />
+                                            <Span Text="{Binding CountryOfOrigin}" />
+                                        </FormattedString>
+                                    </Label.FormattedText>
+                                </Label>
+                            </VerticalStackLayout>
+                            
+                            <Label Grid.Column="1" 
+                                   Text="{Binding Price, StringFormat='{0} UAH'}" 
+                                   FontSize="18" 
+                                   VerticalOptions="Center"
+                                   FontAttributes="Bold"
+                                   TextColor="#007aff"/>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </Frame>
+
+        <HorizontalStackLayout Spacing="10" HorizontalOptions="Center">
+            <Button Text="Add book"
+                    Clicked="OnAddClicked"
+                    WidthRequest="160"
+                    BackgroundColor="#007aff"
+                    TextColor="White"
+                    CornerRadius="20"/>
+
+            <Button Text="Delete selected"
+                    Clicked="OnRemoveClicked"
+                    WidthRequest="160"
+                    BackgroundColor="#ff3b30"
+                    TextColor="White"
+                    CornerRadius="20"/>
+        </HorizontalStackLayout>
+
+    </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
