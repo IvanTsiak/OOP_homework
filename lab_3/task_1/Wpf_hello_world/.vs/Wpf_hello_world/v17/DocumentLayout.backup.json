@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab_3\\lab_3\\task_1\\Wpf_hello_world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53AACA5E-A72B-46CA-957F-FAC9AED3F3AB}|Wpf_hello_world\\Wpf_hello_world.csproj|c:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab_3\\lab_3\\task_1\\wpf_hello_world\\wpf_hello_world\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53AACA5E-A72B-46CA-957F-FAC9AED3F3AB}|Wpf_hello_world\\Wpf_hello_world.csproj|solutionrelative:wpf_hello_world\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AACA5E-A72B-46CA-957F-FAC9AED3F3AB}|Wpf_hello_world\\Wpf_hello_world.csproj|c:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab_3\\lab_3\\task_1\\wpf_hello_world\\wpf_hello_world\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AACA5E-A72B-46CA-957F-FAC9AED3F3AB}|Wpf_hello_world\\Wpf_hello_world.csproj|solutionrelative:wpf_hello_world\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AACA5E-A72B-46CA-957F-FAC9AED3F3AB}|Wpf_hello_world\\Wpf_hello_world.csproj|c:\\\u043D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab_3\\lab_3\\task_1\\wpf_hello_world\\wpf_hello_world\\obj\\debug\\net8.0-windows\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AACA5E-A72B-46CA-957F-FAC9AED3F3AB}|Wpf_hello_world\\Wpf_hello_world.csproj|solutionrelative:wpf_hello_world\\obj\\debug\\net8.0-windows\\mainwindow.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.g.i.cs",
+              "DocumentMoniker": "C:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab_3\\lab_3\\task_1\\Wpf_hello_world\\Wpf_hello_world\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeDocumentMoniker": "Wpf_hello_world\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ToolTip": "C:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab_3\\lab_3\\task_1\\Wpf_hello_world\\Wpf_hello_world\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "RelativeToolTip": "Wpf_hello_world\\obj\\Debug\\net8.0-windows\\MainWindow.g.i.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAtwDIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:54:37.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab_3\\lab_3\\task_1\\Wpf_hello_world\\Wpf_hello_world\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Wpf_hello_world\\MainWindow.xaml",
+              "ToolTip": "C:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab_3\\lab_3\\task_1\\Wpf_hello_world\\Wpf_hello_world\\MainWindow.xaml",
+              "RelativeToolTip": "Wpf_hello_world\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-06T18:54:12.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab_3\\lab_3\\task_1\\Wpf_hello_world\\Wpf_hello_world\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Wpf_hello_world\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\\u041D\u0430\u0432\u0447\u0430\u043D\u043D\u044F\\2 \u043A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab_3\\lab_3\\task_1\\Wpf_hello_world\\Wpf_hello_world\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Wpf_hello_world\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:54:12.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
