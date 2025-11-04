@@ -6,8 +6,7 @@ class Program
     {
         Console.Write("Please enter an integer: ");
         string input = Console.ReadLine();
-        int number = int.Parse(input);
-        Console.WriteLine($"You entered the number {number}");
+        Console.WriteLine($"You entered the number {input}");
         Console.ReadKey();
     }
 }
