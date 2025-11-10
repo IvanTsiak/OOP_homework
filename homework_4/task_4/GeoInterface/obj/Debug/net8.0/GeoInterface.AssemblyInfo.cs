@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GeoInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5ea8fba92b574504789ab135e48b9d6bbf9acfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8952f501a6b24a97f38a54c36fb4c54f4fbd8f0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GeoInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GeoInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

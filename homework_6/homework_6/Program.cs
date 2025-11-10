@@ -1,6 +1,7 @@
 ﻿using System.Text.Json;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json.Serialization;
 
 class PublishingHouseCl
 {
@@ -24,7 +25,9 @@ class Book
         Title = title;
         PublishingHouseId = PublishingHouse.Id;
     }
+    // [JsonIgnore]
     public int PublishingHouseId { get; set; }
+    // [JsonPropertyName("Name")]
     public string Title { get; set; }
     public PublishingHouseCl PublishingHouse { get; set; }
 }
